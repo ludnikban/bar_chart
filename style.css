@@ -1,0 +1,29 @@
+#graph{
+  position:relative;
+  width:1100px;
+  height:216px;
+  margin:8px;
+  padding:0;
+}
+#graph ul{
+  position:absolute;
+  top:0;
+  left:32px;
+  width:1000px;
+  height:200px;
+  border-left:1px solid black;
+  border-bottom:1px solid black;
+}
+#graph li{
+  position:absolute;
+  list-style:none;
+  font-size: 12px;
+  width:40px;
+  text-align:center;
+  border:1px solid black;
+  visibility: hidden;
+}
+#graph p {
+  margin-left: 500px;
+  font-size: 24px;
+}
